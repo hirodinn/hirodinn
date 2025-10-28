@@ -23,6 +23,7 @@
 ## 🛠 Tech Stack
 <p align="center">
   <!-- Frontend -->
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square" />
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=flat-square" />
   <img src="https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=fff&style=flat-square" />
   <img src="https://img.shields.io/badge/-Vue-42B883?logo=vue.js&logoColor=fff&style=flat-square" />
