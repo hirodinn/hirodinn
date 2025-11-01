@@ -54,6 +54,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hirodinn&show_icons=true&theme=radical" alt="stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirodinn&layout=compact&theme=radical" alt="langs" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hirodinn&theme=radical" alt="streak" />
 </p>
 
 ---
