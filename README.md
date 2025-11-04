@@ -5,7 +5,7 @@
 
 ## 🌟 About Me  
 ✨ Passionate about blending **front-end frameworks** with the power of **AI**  
-🎓 Studying Software Engineering with hands-on experience in **React, Next.js, Svelte, Tailwind & Bootstrap**  
+🎓 Studying Software Engineering with hands-on experience in **JavaScript, React, HTML & Tailwind**  
 🤝 Love collaborating on **open-source & impactful projects**  
 ⚡ Tech enthusiast & ⚽ football captain → teamwork in every arena  
 🚀 On a mission to craft apps that are both **beautiful and intelligent**  
