@@ -31,6 +31,12 @@
   <!-- Styling & UI -->
   <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=fff&style=flat-square" />
   <br/>
+  <!--Database-->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" width="24"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="24"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="24"/>
+
+
   <!-- Backend & API -->
   <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff&style=flat-square" />
   <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=fff&style=flat-square" />
