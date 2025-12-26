@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Hire Bikila</h1>
-<h3 align="center">💻 Software Engineering Student | Front-End Developer | AI Enthusiast 🤖</h3>
+<h3 align="center">💻 Software Engineering Student | Full-stack Developer | AI Enthusiast 🤖</h3>
 
 ---
 
