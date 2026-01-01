@@ -4,11 +4,14 @@
 ---
 
 ## 🌟 About Me  
+
 ✨ Passionate about blending **front-end frameworks** with the power of **AI**  
-🎓 Studying Software Engineering with hands-on experience in **JavaScript, React, HTML & Tailwind**  
+🎓 Software Engineering student with hands-on experience in **JavaScript, React, HTML, Tailwind**, and **backend development**  
+🔗 Skilled in building and consuming **RESTful APIs** using **Node.js & Express**, with experience in database-driven applications  
 🤝 Love collaborating on **open-source & impactful projects**  
-⚡ Tech enthusiast & ⚽ football captain → teamwork in every arena  
-🚀 On a mission to craft apps that are both **beautiful and intelligent**  
+⚡ Tech enthusiast & ⚽ football captain — bringing teamwork and leadership into tech  
+🚀 On a mission to craft apps that are **beautiful, intelligent, and scalable**
+
 
 ---
 
