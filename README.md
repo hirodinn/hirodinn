@@ -1,68 +1,39 @@
-<h1 align="center">👋 Hi, I'm Hire Bikila</h1>
-<h3 align="center">💻 Software Engineering Student | Full-stack Developer | AI Enthusiast 🤖</h3>
-
----
-
-## 🌟 About Me  
-
-✨ Passionate about blending **front-end frameworks** with the power of **AI**  
-🎓 Software Engineering student with hands-on experience in **JavaScript, React, HTML, Tailwind**, and **backend development**  
-🔗 Skilled in building and consuming **RESTful APIs** using **Node.js & Express**, with experience in database-driven applications  
-🤝 Love collaborating on **open-source & impactful projects**  
-⚡ Tech enthusiast & ⚽ football captain — bringing teamwork and leadership into tech  
-🚀 On a mission to craft apps that are **beautiful, intelligent, and scalable**
-
-
----
-
-## 🔗 Connect With Me  
+<h1 align="center">Hire Bikila</h1>
 <p align="center">
-  <a href="https://www.linkedin.com/in/hirodinn/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=fff&style=for-the-badge" /></a>
-  <a href="mailto:hirebikila1@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=fff&style=for-the-badge" /></a>
+  Software Engineer • Full-stack Developer • AI Enthusiast
+</p>
+
+<p align="center">
+  <a href="https://hirebikila.me">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/hirodinn/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:hirebikila1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Building+clean+and+scalable+web+products;Full-stack+with+React%2C+Node.js%2C+and+Python;Focused+on+modern+UX+and+developer+experience" alt="Typing intro" />
 </p>
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
+
 <p align="center">
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=flat-square" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff&style=flat-square" />
-  <br/>
-  <!-- Styling & UI -->
-  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=fff&style=flat-square" />
-  <br/>
-  <!--Database-->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" width="24"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="24"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="24"/>
-
-
-  <!-- Backend & API -->
-  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff&style=flat-square" />
-  <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=fff&style=flat-square" />
-  <img src="https://img.shields.io/badge/-RESTful API-FF6C37?style=flat-square" />
-  <br/>
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=flat-square" />
-  <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff&style=flat-square" />
-  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat-square" />
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=fff&style=flat-square" />
-</p>
-
-
----
-
-## 📊 GitHub Overview  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hirodinn&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirodinn&layout=compact&theme=radical" alt="langs" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hirodinn&theme=radical" alt="streak" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,express,python,fastapi,django,postgres,mongodb,redis,docker,git,github,vscode,figma&perline=9" />
 </p>
 
 ---
 
-## 🌱 Fun Quote  
-<p align="center"><em>"Coding, football, music — mastering all three, with a dash of humor and occasional chaos."</em></p>
+## 🚀 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hirodinn&show_icons=true&theme=blue-green&hide_border=true)
+
+## 🔥 Streak
+![Streak](https://streak-stats.demolab.com?user=hirodinn&theme=tokyonight&hide_border=true)
+
+## 💻 Languages
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hirodinn&layout=compact)  
